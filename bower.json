@@ -1,0 +1,19 @@
+{
+  "name": "chatterbox-coffee",
+  "version": "0.0.0",
+  "authors": [
+    "Andrew Weber <andrew.robert.weber@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.2.1",
+    "jquery": "~2.1.4"
+  }
+}
